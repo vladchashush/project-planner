@@ -1,0 +1,7 @@
+frontend/node_module
+backend/node_module
+frontend/dist/
+backend/dist/
+frontend/.env
+backend/.env
+frontend/.next/
