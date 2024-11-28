@@ -9,7 +9,8 @@ import { authService } from '@/services/auth.service'
 import { errorCatch } from './error'
 
 const options: CreateAxiosDefaults = {
-	baseURL: 'http://localhost:5000/api',
+	const backendUrl = process.env.BASE_URL
+	baseURL: `${backendURL}/api`,
 	headers: {
 		'Content-Type': 'application/json'
 	},
