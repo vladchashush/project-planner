@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-<p align="end">
+<p align="start">
   🌐<a href="README.ru.md" target="_blank">Русский</a>
 </p>
 
